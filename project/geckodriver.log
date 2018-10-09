@@ -1,0 +1,14 @@
+1517481365454	geckodriver	INFO	geckodriver 0.19.1
+1517481365457	geckodriver	INFO	Listening on 127.0.0.1:59828
+1517481366540	mozrunner::runner	INFO	Running command: "/home/user/cloud_v2/Item/Spider/common/../firefox/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6h7OfKEpgt0L"
+1517481368536	Marionette	INFO	Enabled via --marionette
+1517481371678	Marionette	INFO	Listening on port 37836
+1517481371782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517481371833	Marionette	DEBUG	Register listener.js for window 2147483649
+1517481373265	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1517481373398	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1517481373398	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: http://fund.eastmoney.com/js/fundsearch/script.js?v=20160809090853, line 9: unreachable code after return statement
+1517481374082	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://fund.eastmoney.com/f10/ccbdzs_519981.html"
+1517481374308	Marionette	DEBUG	Received DOM event "pageshow" for "http://fund.eastmoney.com/f10/ccbdzs_519981.html"
+Sandbox: Unexpected EOF, op 0 flags 01101 path /tmp/GeckoChildCrash16323.extra

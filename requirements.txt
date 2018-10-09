@@ -1,0 +1,7 @@
+pymysql
+xlrd
+pyvirtualdisplay
+redis
+flask
+bs4
+lxml
